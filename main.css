@@ -21,7 +21,7 @@ body {
 }
 .card-wrap {
     display: flex;
-    max-width: 890 px;
+    max-width: 890px;
     justify-content: space-between;
     list-style: none;
     flex-wrap: wrap;
